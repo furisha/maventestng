@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-08T21:00:59 CEST" name="Suite1" finished-at="2020-07-08T21:00:59 CEST" duration-ms="84">
+    <groups>
+    </groups>
+    <test started-at="2020-07-08T21:00:59 CEST" name="Regression1" finished-at="2020-07-08T21:00:59 CEST" duration-ms="84">
+      <class name="com.furman.MyTestNGClass">
+        <test-method signature="setup1()[pri:0, instance:com.furman.MyTestNGClass@13b6aecc]" started-at="2020-07-08T21:00:59 CEST" name="setup1" finished-at="2020-07-08T21:00:59 CEST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup1 -->
+        <test-method signature="setup2()[pri:0, instance:com.furman.MyTestNGClass@13b6aecc]" started-at="2020-07-08T21:00:59 CEST" name="setup2" finished-at="2020-07-08T21:00:59 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup2 -->
+        <test-method signature="setup3()[pri:0, instance:com.furman.MyTestNGClass@13b6aecc]" started-at="2020-07-08T21:00:59 CEST" name="setup3" finished-at="2020-07-08T21:00:59 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup3 -->
+        <test-method signature="setup4()[pri:0, instance:com.furman.MyTestNGClass@13b6aecc]" started-at="2020-07-08T21:00:59 CEST" name="setup4" finished-at="2020-07-08T21:00:59 CEST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup4 -->
+      </class> <!-- com.furman.MyTestNGClass -->
+    </test> <!-- Regression1 -->
+  </suite> <!-- Suite1 -->
+</testng-results>
